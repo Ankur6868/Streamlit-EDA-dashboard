@@ -3,6 +3,7 @@ An interactive Streamlit application for performing exploratory data analysis (E
 # Streamlit EDA Dashboard
 
 This project is an interactive data analysis web application built using **Streamlit**, designed to help users explore, visualize, and understand datasets effortlessly.
+[Visit my Streamlit App](https://ankur6868-z4xewurestjnfpsqvwbkwl.streamlit.app/)
 
 Features
 - Load built-in datasets (Iris, Titanic, Wine, Breast Cancer,Upload your dataset etc.)
